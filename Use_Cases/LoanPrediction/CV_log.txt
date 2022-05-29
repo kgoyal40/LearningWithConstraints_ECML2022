@@ -1,0 +1,2508 @@
+violations in full data: 26
+violations in full data: 30
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+violations in full data: 24
+violations in full data: 26
+violations in full data: 26
+violations in full data: 25
+violations in full data: 27
+violations in full data: 25
+violations in full data: 27
+violations in full data: 30
+violations in full data: 28
+violations in full data: 29
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+violations in full data: 28
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+violations in full data: 30
+cv_log_entry for fold: 5
+violations in full data: 27
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+violations in full data: 27
+violations in full data: 26
+violations in full data: 27
+violations in full data: 29
+violations in full data: 26
+violations in full data: 28
+violations in full data: 30
+violations in full data: 27
+violations in full data: 25
+violations in full data: 29
+violations in full data: 30
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 1
+cv_log_entry for fold: 4
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 2
+cv_log_entry for fold: 5
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 2
+cv_log_entry for fold: 1
+cv_log_entry for fold: 1
+cv_log_entry for fold: 3
+cv_log_entry for fold: 5
+cv_log_entry for fold: 5
+cv_log_entry for fold: 4
+cv_log_entry for fold: 4
+cv_log_entry for fold: 5
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+cv_log_entry for fold: 1
+cv_log_entry for fold: 2
+cv_log_entry for fold: 3
+cv_log_entry for fold: 4
+violations in full data: 31
+violations in full data: 26
+violations in full data: 31
+violations in full data: 26
+violations in full data: 28
+violations in full data: 27
+violations in full data: 26
+violations in full data: 26
+violations in full data: 26
+violations in full data: 30
+violations in full data: 25
+violations in full data: 25
+violations in full data: 29
+violations in full data: 26
+violations in full data: 31
+violations in full data: 23
+violations in full data: 26
+violations in full data: 27
+violations in full data: 28
+violations in full data: 26
+violations in full data: 26
+violations in full data: 27
+violations in full data: 30
+violations in full data: 30
+violations in full data: 26
+violations in full data: 26
+violations in full data: 27
+violations in full data: 26
+violations in full data: 24
+violations in full data: 27
+violations in full data: 27
+violations in full data: 30
+violations in full data: 27
+violations in full data: 27
+violations in full data: 31
+violations in full data: 25
+violations in full data: 26
+violations in full data: 25
+violations in full data: 25
+violations in full data: 27
+violations in full data: 28
+violations in full data: 29
+violations in full data: 27
+violations in full data: 28
+violations in full data: 30
+violations in full data: 28
+violations in full data: 31
+violations in full data: 29
+violations in full data: 27
+violations in full data: 26
+violations in full data: 27
+violations in full data: 28
+violations in full data: 27
+violations in full data: 25
+violations in full data: 26
+violations in full data: 27
+violations in full data: 26
+violations in full data: 25
+violations in full data: 33
+violations in full data: 26
+violations in full data: 34
+violations in full data: 25
+violations in full data: 31
+violations in full data: 26
+violations in full data: 30
+violations in full data: 31
+violations in full data: 28
+violations in full data: 25
+violations in full data: 31
+violations in full data: 28
+violations in full data: 25
+violations in full data: 26
+violations in full data: 26
+violations in full data: 26
+violations in full data: 26
+violations in full data: 26
+violations in full data: 30
+violations in full data: 28
+violations in full data: 29
+violations in full data: 27
+violations in full data: 27
+violations in full data: 25
+violations in full data: 26
+violations in full data: 28
+violations in full data: 26
+violations in full data: 31
+violations in full data: 31
+violations in full data: 28
+violations in full data: 27
+violations in full data: 31
+violations in full data: 28
+violations in full data: 27
+violations in full data: 26
+violations in full data: 31
+violations in full data: 27
+violations in full data: 26
+violations in full data: 27
+violations in full data: 30
+violations in full data: 25
+violations in full data: 26
+violations in full data: 31
+violations in full data: 31
+violations in full data: 28
+violations in full data: 27
+violations in full data: 26
+violations in full data: 31
+violations in full data: 27
+violations in full data: 26
+violations in full data: 27
+violations in full data: 30
+violations in full data: 25
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 26
+violations in full data: 26
+violations in full data: 28
+violations in full data: 26
+violations in full data: 26
+violations in full data: 26
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 31
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 28
+violations in full data: 31
+violations in full data: 25
+violations in full data: 27
+violations in full data: 30
+violations in full data: 26
+violations in full data: 26
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 31
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 29
+violations in full data: 32
+violations in full data: 28
+violations in full data: 26
+violations in full data: 31
+violations in full data: 28
+violations in full data: 27
+violations in full data: 26
+violations in full data: 31
+violations in full data: 31
+violations in full data: 27
+violations in full data: 26
+violations in full data: 27
+violations in full data: 31
+violations in full data: 28
+violations in full data: 27
+violations in full data: 26
+violations in full data: 31
+violations in full data: 27
+violations in full data: 26
+violations in full data: 27
+violations in full data: 30
+violations in full data: 25
+violations in full data: 25
+violations in full data: 31
+violations in full data: 28
+violations in full data: 27
+violations in full data: 26
+violations in full data: 31
+violations in full data: 27
+violations in full data: 26
+violations in full data: 26
+violations in full data: 27
+violations in full data: 30
+violations in full data: 25
+violations in full data: 31
+violations in full data: 28
+violations in full data: 27
+violations in full data: 26
+violations in full data: 31
+violations in full data: 27
+violations in full data: 26
+violations in full data: 27
+violations in full data: 30
+violations in full data: 25
