@@ -1,6 +1,6 @@
 import sys
 
-sys.path.insert(0, '/home/kshitij/LearningWithConstraints_ECML_2/src')
+sys.path.insert(0, 'path to src folder')
 from LinearClassifier import *
 import time
 import torch

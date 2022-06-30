@@ -1,6 +1,6 @@
 import sys
 
-sys.path.insert(0, '/Users/kshitijgoyal/Desktop/LearningWithConstraints_ECML_2/src')
+sys.path.insert(0, 'path to src folder')
 from MultiTargetLinearRegressor import *
 from z3 import *
 import torch

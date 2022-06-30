@@ -1,6 +1,6 @@
 import sys
 
-sys.path.insert(0, '/kshitijgoyal/desktop/LearningWithConstraints_ECML_2/src')
+sys.path.insert(0, 'path to src folder')
 from LinearClassifierMultiClass import *
 import torch
 

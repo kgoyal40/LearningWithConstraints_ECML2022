@@ -1,8 +1,0 @@
-python -m scoop -vv -n 50 Experiments.py '[[0, 1], [0, 1, 2], [1, 2]]' 1 '[10]' '[0.2, 0.5, 1, 2]' '[5, 10]'
-python -m scoop -vv -n 1 Experiments.py '[[0, 1]]' 1 '[1]' '[0.2, 0.3]' '[5]'
-python -m scoop -vv -n 50 Experiments.py '[[0, 1], [0, 1, 2], [1, 2]]' 1 '[10]' '[0.5, 1, 2]' '[5]'
-python -m scoop -vv -n 50 Experiments_with_smaller_datasets.py '[[0, 1], [0, 1, 2], [1, 2]]' 1 '[10]' '[0.5, 1, 2]' '[5]'
-
-python -m scoop -vv -n 20 Experiments.py '[[0, 1]]' 1 '[10]' '[0.5, 1]' '[5]' 100
-python -m scoop -vv -n 50 Experiments.py '[[0, 1], [0, 1, 2], [1, 2]]' 1 '[10]' '[0.5, 1, 2]' '[5]'
-python -m scoop -vv -n 20 Experiments.py '[[0, 1]]' 1 '[10]' '[0.1]' '[5]' 2

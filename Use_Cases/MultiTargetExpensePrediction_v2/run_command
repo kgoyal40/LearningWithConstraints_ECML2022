@@ -1,3 +1,0 @@
-python -m scoop -vv -n 40 Experiments.py '[[0.1], [0.1, 0.2], [0.1, 0.2, 0.3]]' 1 '[10]' '[0.5, 1, 2]' '[5]'
-python -m scoop -vv -n 5 Experiments.py '[[0.1]]' 1 '[30]' '[0.5]' '[5]' 1000_step_5
-

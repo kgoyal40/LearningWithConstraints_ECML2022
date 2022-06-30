@@ -82,7 +82,7 @@ def single_model_run(X, y, test_data=None, params=None, fold_index=None):
         output.columns = ['fold', 'margin/alpha', 'knowledge', 'learning_rate', 'batch_size', 'epochs', 'runtime',
                           'weights', 'violations_train_data', 'accuracy_train_corrected', 'accuracy_train_modified',
                           'violations_train_prediction', 'violations_test_data', 'accuracy_test_corrected',
-                          'accuracy_train_modified', 'violations_test_prediction',  'counter_examples_found',
+                          'accuracy_test_modified', 'violations_test_prediction', 'counter_examples_found',
                           'num_iterations']
 
         return output, CV_log, fold_train_losses, val_evaluation
@@ -94,7 +94,7 @@ def single_baseline_run_2(X, y, test_data=None, params=None, fold_index=None):
     X_train.reset_index(inplace=True, drop=True)
     X_val.reset_index(inplace=True, drop=True)
     alphas = ['PP', 0, 1, 2, 5, 10, 50, 100]
-    #alphas = [100]
+    # alphas = [100]
     loss_types = ['sbr', 'sl']
     K = params['K'][0]
 
@@ -196,7 +196,7 @@ def single_baseline_run_2(X, y, test_data=None, params=None, fold_index=None):
 
 if __name__ == "__main__":
     start = time.time()
-    dataset = 'music_data_24122020.csv'
+    dataset = 'music_data.csv'  # not shared because of proprietary reasons
     data = pd.read_csv(dataset, header=0).iloc[:, 1:]
 
     folder_name = sys.argv[6]
