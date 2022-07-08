@@ -1,4 +1,4 @@
-### Instructions to use the SaDe Codes.
+### Instructions to use the experiments for the work on Satisfiability Descent (SaDe) proposed in https://arxiv.org/abs/2112.00552.
 
 #### Structure of the Code:
 1. The main learners are present in the /src folder, along with the Fu-Malik optimizer.
